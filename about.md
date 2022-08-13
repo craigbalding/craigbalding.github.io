@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Craig Balding
 
-<img src="/images/craig.png" alt="Craig Balding" width="380">
+<img src="/images/craig.jpg" alt="Craig Balding" width="380">
 
 Hi there. I’m Craig Balding and this website is where I write about what I'm building.
 
